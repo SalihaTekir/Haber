@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yonetim.UI.Web", "Yonetim.U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yonetim.Model", "Yonetim.Model\Yonetim.Model.csproj", "{0394CA13-ADA4-4D1D-9EA3-73676DA76A0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yonetim.DAL", "Yonetim.DAL\Yonetim.DAL.csproj", "{FF54030F-6560-4C95-9463-493AEF383C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yonetim.BLL", "Yonetim.BLL\Yonetim.BLL.csproj", "{AC18EC5C-AFBC-4046-BFD6-212C0973A141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yonetim.Admin.Tema", "Yonetim.Admin.Tema\Yonetim.Admin.Tema.csproj", "{54893BAE-461D-4D7C-A1A4-D7D49B1ACB5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{0394CA13-ADA4-4D1D-9EA3-73676DA76A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0394CA13-ADA4-4D1D-9EA3-73676DA76A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0394CA13-ADA4-4D1D-9EA3-73676DA76A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF54030F-6560-4C95-9463-493AEF383C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF54030F-6560-4C95-9463-493AEF383C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF54030F-6560-4C95-9463-493AEF383C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF54030F-6560-4C95-9463-493AEF383C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC18EC5C-AFBC-4046-BFD6-212C0973A141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC18EC5C-AFBC-4046-BFD6-212C0973A141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC18EC5C-AFBC-4046-BFD6-212C0973A141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC18EC5C-AFBC-4046-BFD6-212C0973A141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54893BAE-461D-4D7C-A1A4-D7D49B1ACB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54893BAE-461D-4D7C-A1A4-D7D49B1ACB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54893BAE-461D-4D7C-A1A4-D7D49B1ACB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54893BAE-461D-4D7C-A1A4-D7D49B1ACB5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
