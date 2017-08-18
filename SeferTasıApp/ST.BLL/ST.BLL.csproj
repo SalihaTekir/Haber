@@ -88,6 +88,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ST.DAL\ST.DAL.csproj">
+      <Project>{ee0a7a96-b824-4d27-bdae-116ea8174b18}</Project>
+      <Name>ST.DAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ST.Models\ST.Models.csproj">
       <Project>{ad54d1cc-43f3-4b35-bbd3-5b77e43332b1}</Project>
       <Name>ST.Models</Name>
